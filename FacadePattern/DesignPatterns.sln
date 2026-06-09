@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Memento", "Pattern.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Flyweitght", "Pattern.Flyweitght\Pattern.Flyweitght.csproj", "{50AD97B3-E9B7-4F10-9F32-416D7D98F653}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Observer", "Pattern.Observer\Pattern.Observer.csproj", "{A1B2C3D4-E5F6-47F8-A9C0-B1D2E3F4A5B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{50AD97B3-E9B7-4F10-9F32-416D7D98F653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50AD97B3-E9B7-4F10-9F32-416D7D98F653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50AD97B3-E9B7-4F10-9F32-416D7D98F653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B2C3D4-E5F6-47F8-A9C0-B1D2E3F4A5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-E5F6-47F8-A9C0-B1D2E3F4A5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B2C3D4-E5F6-47F8-A9C0-B1D2E3F4A5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-E5F6-47F8-A9C0-B1D2E3F4A5B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
